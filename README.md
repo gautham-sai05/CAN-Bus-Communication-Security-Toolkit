@@ -179,6 +179,3 @@ Do not connect this setup to real vehicles or production automotive systems.
 - Integrate with SocketCAN on Linux
 - Build a simple CAN intrusion detection system
 
-## Summary
-
-This project demonstrates a compact CAN network with simulated ECU behavior and a configurable test node for learning and research. It is suitable for understanding how CAN traffic is generated, observed, and manipulated in a controlled lab environment.
